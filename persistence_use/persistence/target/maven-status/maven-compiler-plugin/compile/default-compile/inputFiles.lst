@@ -1,0 +1,16 @@
+/Users/ding/Documents/git/persistence_use/persistence/src/main/java/config/MappedStatement.java
+/Users/ding/Documents/git/persistence_use/persistence/src/main/java/resources/Resources.java
+/Users/ding/Documents/git/persistence_use/persistence/src/main/java/sqlsession/SqlSessionFactory.java
+/Users/ding/Documents/git/persistence_use/persistence/src/main/java/utils/ParameterMapping.java
+/Users/ding/Documents/git/persistence_use/persistence/src/main/java/sqlsession/SqlSessionFactoryBuild.java
+/Users/ding/Documents/git/persistence_use/persistence/src/main/java/utils/GenericTokenParser.java
+/Users/ding/Documents/git/persistence_use/persistence/src/main/java/build/XmlMapperBuild.java
+/Users/ding/Documents/git/persistence_use/persistence/src/main/java/sqlsession/SqlSession.java
+/Users/ding/Documents/git/persistence_use/persistence/src/main/java/utils/TokenHandler.java
+/Users/ding/Documents/git/persistence_use/persistence/src/main/java/config/Configuration.java
+/Users/ding/Documents/git/persistence_use/persistence/src/main/java/build/XmlConfigBuild.java
+/Users/ding/Documents/git/persistence_use/persistence/src/main/java/excutor/Excutor.java
+/Users/ding/Documents/git/persistence_use/persistence/src/main/java/utils/ParameterMappingTokenHandler.java
+/Users/ding/Documents/git/persistence_use/persistence/src/main/java/sqlsession/DefaultSqlSession.java
+/Users/ding/Documents/git/persistence_use/persistence/src/main/java/sqlsession/DefaultSqlSessionFactory.java
+/Users/ding/Documents/git/persistence_use/persistence/src/main/java/excutor/DefaultExcutor.java
